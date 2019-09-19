@@ -1,0 +1,291 @@
+body {
+    background: #fff;
+}
+/* login page background */
+.login {
+
+    background: #1c7af6!important;
+}
+
+.vertical-align {
+    background: none!important;
+}
+
+.panel {
+    background: #fff!important
+}
+
+/* login page background */
+
+
+/* alerts style */
+
+.alerts{
+    margin-top: 50px;
+}
+
+.myalert svg {
+    margin-left: 10px;
+}
+
+
+/* end alerts style */
+
+/* site-menubar style*/
+
+.panel-body table img {
+    width: 40px;
+}
+
+.site-menu-icon {
+    font-size: 30px!important;
+}
+
+
+.site-menu-item .site-menu-title svg{
+    margin-right: 8px;
+}
+
+/* end site-menubar style*/
+
+/* members edite  */
+.save {
+    margin-top: 20px;
+}
+
+.member-control  {
+    text-decoration: none;
+    /* color: #6d6d6d; */
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.member-control a {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+/* end members edite  */
+
+
+/* Start Categori edite  */
+
+.mychek {
+
+}
+
+.mychek p {
+    font-weight: 500;
+}
+
+.o_1 p  {
+    margin-right: 78px;
+}
+
+.o_3 p  {
+    margin-right: 57px;
+}
+
+.form-horizontal .form-control-label {
+    margin-bottom: 16px!important;
+    font-weight: 400;
+}
+
+.categoris .title {
+    background: #1c7af6;
+    padding: 6px;
+    position: relative;
+}
+
+.categoris .title P {
+    position: absolute;
+    top : 10px;
+    right: 15px;
+    color: #eff3ff;
+}
+
+
+.title P a {
+    color: #eff3ff;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.categoris h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+    color:#fff;
+}
+
+.categoris {
+    border: solid 1px #1c7af6;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 15px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+    padding-bottom: 37px;
+}
+
+.categoris::after {
+    content: '';
+    position: absolute;
+    background: #1c7af6;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 37px;
+    border-radius: 0 0 15px 15px;
+}
+
+.categori {
+    padding: 16px;
+    position: relative;
+}
+
+.categori:hover {
+    background: #eff3ff;
+}
+
+.categori::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background: #1c7af6;
+    bottom: 0px;
+    left: 0;
+}
+
+.categori h2 {
+    font-size: 19px;
+    padding-left: 10px;
+    margin: 0;
+}
+.categori p {
+    padding-left: 12px;
+    line-height: 3;
+    margin: 0;
+}
+
+.categoris .categori span {
+    margin: 10px;
+    color: #fff;
+    border-radius: 16px;
+    padding: 4px;
+    font-size: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.categoris span:nth-last-of-type(3){
+    background: #f61c1c;
+}
+
+.categoris span:nth-last-of-type(2){
+    background: #8d1cf6;
+}
+
+.categoris span:nth-last-of-type(1){
+    background: #f61c9b;
+}
+
+.hidden {
+    position: absolute;
+    top: 30px;
+    right: -140px;
+    transition: all ease 0.5s;
+}
+
+.categori:hover .hidden {
+    right: 15px;
+}
+
+.hidden a {
+    margin-left: 10px;
+}
+
+
+.hidden a svg {
+    margin-right: 5px;
+}
+
+
+.child {
+    list-style: none;
+}
+
+.child li {
+    display: inline;
+    margin-right: 10px;
+}
+
+
+/* end Categori edite  */
+
+/* start Items edite  */
+
+.myselect {
+    display: inline-flex;
+    margin-left: 10px;
+    position: relative;
+    margin-top: 20px;
+}
+.myselect p {
+    position: absolute;
+    left: 0px;
+    top: -30px;
+}
+
+/* end Items edite  */
+
+
+
+
+/******  frontEnd  ********/
+
+
+/* start login  */
+.erros-front {
+    display:inline-block;
+    width: 100%;
+}
+
+/* end login  */
+
+/* start newitem  */
+
+.form-group .bootstrap-select.btn-group,
+.form-horizontal
+.bootstrap-select.btn-group,
+.form-inline .bootstrap-select.btn-group {
+    width: 100%!important;
+}
+/* end newitem  */
+
+.error {
+    float: none!important;
+}
+
+
+/* start ana sayfa */
+
+.sub-menu {
+    width: 230px!important;
+}
+
+.caption h4 {
+    max-height: 16px;
+    overflow: hidden;
+
+}
+
+/* end ana sayfa */
+/******  //frontEnd   ********/

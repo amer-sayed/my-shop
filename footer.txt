@@ -1,0 +1,33 @@
+<script type="text/javascript" src="them/js/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="them/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="them/js/owl-carousel/owl.carousel.js"></script>
+<script type="text/javascript" src="them/js/themejs/libs.js"></script>
+<script type="text/javascript" src="them/js/unveil/jquery.unveil.js"></script>
+<script type="text/javascript" src="them/js/countdown/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="them/js/dcjqaccordion/jquery.dcjqaccordion.2.8.min.js"></script>
+<script type="text/javascript" src="them/js/datetimepicker/moment.js"></script>
+<script type="text/javascript" src="them/js/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="them/js/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="them/js/modernizr/modernizr-2.6.2.min.js"></script>
+
+
+<!-- Theme files
+============================================ -->
+<script type="text/javascript" src="them/js/themejs/application.js"></script>
+<script type="text/javascript" src="them/js/themejs/homepage.js"></script>
+<script type="text/javascript" src="them/js/themejs/so_megamenu.js"></script>
+<script type="text/javascript" src="them/js/themejs/addtocart.js"></script>
+
+
+
+
+<!-- Scripts -->
+<script src="admin/global/vendor/babel-external-helpers/babel-external-helpers599c.js?v4.0.2"></script>
+<script src="admin/global/js/Component.min599c.js?v4.0.2"></script>
+<script src="admin/global/js/Plugin.min599c.js?v4.0.2"></script>
+<script src="admin/global/js/Base.min599c.js?v4.0.2"></script>
+<script src="admin/global/js/Config.min599c.js?v4.0.2"></script>
+<script src="admin/assets/js/Site.min599c.js?v4.0.2"></script>
+<script src="admin/assets/examples/js/dashboard/v1.min599c.js?v4.0.2"></script>
+<script src="admin/global/vendor/bootstrap-select/bootstrap-select.min599c.js?v4.0.2"></script>
+<script src="admin/global/vendor/moment/moment.min599c.js?v4.0.2"></script>

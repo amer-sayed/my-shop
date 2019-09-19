@@ -1,0 +1,109 @@
+/*  home page */
+.megamenu i {
+    padding-right: 0px!important;
+    margin : auto;
+}
+
+.megamenu .icon {
+    width: 30px;
+    display: inline-flex;
+}
+
+/*  //home page */
+
+
+/*  login page */
+
+.page-login {
+    border: solid 1px;
+}
+
+.page-login .uye_ol .well h3  {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.page-login .uye_ol .well{
+    position: relative;
+    border: none!important;
+    box-shadow: none;
+    font-family: Arial;
+    background: none;
+}
+
+.uye_ol {
+    padding: 30px 60px;
+    border-left: solid 1px;
+
+}
+
+.uye_ol ul {
+    list-style: none;
+    margin-left: 10px;
+}
+
+.uye_ol ul li  {
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+.uye_ol ul li i {
+    position: absolute;
+    left: 20px;
+    font-size: 30px;
+    border: solid 1px #e7e7e7;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    border-radius: 50%;
+    color: #e7e7e7;
+}
+
+
+
+.page-login .uye_ol .bottom-form {
+    padding: 0;
+}
+.page-login .uye_ol .bottom-form a {
+    width: 100%;
+}
+
+
+.customer-login .wel {
+    border: none!important;
+    box-shadow:none;
+    margin: 30px;
+    background: none;
+    padding: 0;
+}
+
+.customer-login h3 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial;
+    color: #F4A137;
+}
+
+.myform {
+    width: 70%;
+    margin: auto;
+    margin-top: 96px;
+}
+
+.customer-login input {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.form-group label {
+    font-size: 16px;
+}
+
+/*  //login page */
+
+
+
+
